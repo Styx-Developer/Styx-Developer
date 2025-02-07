@@ -1,9 +1,32 @@
-## Hello I am Styx
-I am Styx, but you can call me John or JJ, I am the lead developer and the only true owner of Jupiter Development. I am a Lua 5.1, 5.3, and Luau scripter, I am a capable Luau developer with a proven track record from my past, I have changed focus and gone to helping Roblox Game Developers. 
+# About Me
 
-## Accomplishments
-In early 2019, Ive started various works, with only one true success, reaching a peak of 250 members. I had officially begun Jupiter-Development which was a script to exploit Prison Lifes vulnerabilities and problems, it was fully open-sourced. It has since been removed from my accounts and GitHub altogether, but technically in working order, despite reaching a peak of 1k views. (Disappointed in Prison Lifes lack of patching, every vulnerability was easily fixable, but yet he chooses to do nothing)
-I have since moved to revamp the entire viewpoint of Jupiter and stepped away entirely from the old and negative impact, focusing on **Game Development** releasing two projects as of recently, with one close to being finished. Ive currently released two projects one an Unsecure-Client-Sided Anti-Cheat, which is archived and viewable on @Jupiter-Development-Revamp. It pointed out that I couldve gotten a slightly better product had I tried a bit harder, however, it isnt entirely possible to secure a client from the client. However, with one failed project, Ive evolved and decided to step up the product by creating a fresh new one and using proven methods of detecting cheats. This project, soon to be released is known as Armed-Vortex. Which can be seen in action in a showcase video which was released not too long ago. Its a video that was taken in an unfinished form but works to showcase its current stages. https://www.youtube.com/watch?v=ZoJIynOyei8&t=1s&ab_channel=PrometheusDeveloper (ignore that colors look out of wack, I'm colorblind and looks good to me). My other project was taken from that new AntiCheat, its meant for people to freely use and distribute. Its used for creating Admin Commands and other things, its a proper Command-Handler, which showcases newish ideas Ive not really seen in most scripts. Ive added a method for checking similarities between strings, so when a command is misspelled it will still execute the command. 
+**Hey, I'm Jupiter (or whatever name you prefer from the list below)!**
 
-## Contacting me
-My GitHub has a Gmail provided and you can email me through that, or if you have Discord you can contact me via my [Discord Server](https://discord.gg/MstqrY6gtq).
+## 🛠️ What I Do
+
+- **Scripting**: I specialize in Luau and Lua (5.1-5.4), creating efficient and high-level code.
+- **Development**: Founder & Developer of **Jupiter Development Revamp (EST 2019)**.
+- **Security**: I make free **anti-cheat solutions** with advanced techniques to help secure Roblox experiences.
+- **Problem-Solver**: I enjoy tackling challenges, whether in programming or hands-on projects.
+
+## 🏎️ Beyond Development
+
+- **Mechanical Work**: I will study to become a mechanic, and I'm looking forward to the automotive world.
+- **Commitment to Quality**: I believe in doing things right the first time, whether it's coding or fixing cars.
+- **Audio & Tech Enthusiast**: I enjoy customizing vehicles and making my vehicles and others unique.
+
+## 📚 Personal
+
+- **Age**: 18
+- **Currently in High School**
+- **Names I Go By**:
+  - Jupiter Developer / Jupiter / John / Jay / JJ
+  - StyxDeveloper / Prometheus Developer
+
+## 🔗 Get in Touch
+
+If you're into scripting, and game development, feel free to reach out!  
+- **Discord**: styxdeveloper *(Responses vary, up to a day)*  
+- **Gmail**: prometheusdeveloper366@gmail.com *(Checked daily)*  
+- **Twitter**: [@John_JupiterDev](https://x.com/John_JupiterDev) *(not very active, wait times up to a week)*
+
