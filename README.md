@@ -1,27 +1,18 @@
 # About Me
 
-**Hey, I'm Jupiter (or whatever name you prefer from the list below)!**
+**Hey, I'm John (or whatever name you prefer from the list below)!**
 
 ## 🛠️ What I Do
 
-- **Scripting**: I specialize in Luau and Lua (5.1-5.4), creating efficient and high-level code.
-- **Development**: Founder & Developer of **Jupiter Development Revamp (EST 2019)**.
-- **Security**: I make free **anti-cheat solutions** with advanced techniques to help secure Roblox experiences.
-- **Problem-Solver**: I enjoy tackling challenges, whether in programming or hands-on projects.
-
-## 🏎️ Beyond Development
-
-- **Mechanical Work**: I'm now working full-time as a **diesel mechanic** for a rental company for tractors, dozers, excavators, and heavy equipment. I am also a **Small Engine Mechanic**, lawnmowers, weed eaters, edgers, tillers, snowblowers, and so much more.
-- **Commitment to Quality**: I believe in doing things right the first time, whether it's coding or fixing cars.
-
+- **Mechanic**: I'm a full-time **Heavy Equipment Mechanic & Small Engine Mechanic**. I can work on a wide array of equipment, ranging from small to big. I am even capable of most **Mechanic** work.
+  You will find plenty of things on my **GitHub**. 
+  
 ## 📚 Personal
 
 - **Age**: 18  
 - **Currently in High School**  
 - **Names I Go By**:
-  - Jupiter Developer / Jupiter / John / Jay / JJ  
-  - StyxDeveloper / Prometheus Developer  
-
+  - John / Jay / JJ  
 ## 🔗 Get in Touch
 
 If you're into scripting, and game development, feel free to reach out!  
