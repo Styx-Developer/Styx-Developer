@@ -4,7 +4,7 @@
 
 ## 🛠️ What I Do
 
-- **Mechanic**: I'm a full-time **Heavy Equipment Mechanic & Small Engine Mechanic**. I can work on a wide array of equipment, ranging from small to big. I am even capable of most **Mechanic** work.
+- **Mechanic**: I'm a full-time **Heavy Equipment Mechanic & Small Engine Mechanic**. I can work on a wide range of equipment, from small to large. I am even capable of most **Mechanic** work.
   You will find plenty of things on my **GitHub**. 
   
 ## 📚 Personal
@@ -16,6 +16,6 @@
 ## 🔗 Get in Touch
 
 If you're into scripting, and game development, feel free to reach out!  
-- **Discord**: styxdeveloper *(Responses vary, up to a day)*  
-- **Gmail**: prometheusdeveloper366@gmail.com *(Checked weekly)*  
-- **Twitter**: [@John_JupiterDev](https://x.com/John_JupiterDev) *(wait times up to a day)*
+- **Discord**: styxdeveloper *(Responses vary, up to a few weeks)*  
+- **Gmail**: prometheusdeveloper366@gmail.com *(Checked monthly)*  
+- **Twitter**: [@John_JupiterDev](https://x.com/John_JupiterDev) *(wait times up to a few weeks or months)*
